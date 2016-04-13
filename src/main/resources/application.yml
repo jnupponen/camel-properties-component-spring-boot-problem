@@ -1,0 +1,4 @@
+
+spring.main.sources: com.example.MySpringBootRouter
+
+inject-value: foobar
